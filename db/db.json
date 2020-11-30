@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id" : 1,
+            "nom" : "Doe",
+            "prenom" : "John",
+            "note" : 8
+        },
+        {
+            "id" : 1,
+            "nom" : "Vossough",
+            "prenom" : "Adrien",
+            "note" : 20
+        },
+        {
+            "id" : 1,
+            "nom" : "Raoux",
+            "prenom" : "Killian",
+            "note" : 19
+        }
+    ]
+}
